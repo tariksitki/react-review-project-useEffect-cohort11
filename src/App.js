@@ -1,4 +1,4 @@
-import { Reviews } from "./Reviews";
+import Reviews from "./components/Reviews";
 
 function App() {
   return (
